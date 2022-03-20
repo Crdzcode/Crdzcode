@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 Sobre mim
 
-- 👨 Tenho apenas 18 anos, nasci em 29/04/2003
+- 👨 Tenho 18 anos, nasci em 29/04/2003
 - 🖨️ Atualmente trabalho na TIVIT
 - 🖥️ Estou imerso no mundo da programação desde os meus 13 anos
 - 💬 Sou fluente em inglês

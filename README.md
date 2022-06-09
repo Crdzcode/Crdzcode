@@ -2,9 +2,10 @@
 
 ### 👨🏻‍💻 Sobre mim
 
-- 👨 Tenho 18 anos, nasci em 29/04/2003
+- 👨 Tenho 19 anos, nasci em 29/04/2003
 - 🖥️ Estou imerso no mundo da programação desde os meus 13 anos
 - 💬 Sou fluente em inglês
+- 🧑‍💼 Atualmente trabalho na BRQ Solutions, atuando diretamente no cliente Santander
 
 ##
   

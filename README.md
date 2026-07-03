@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 Sobre mim
 
-- 👨 Tenho 22 anos, nasci em 29/04/2003
+- 👨 Tenho 23 anos, nasci em 29/04/2003
 - 🖥️ Estou imerso no mundo da programação desde os meus 13 anos
 - 💬 Sou fluente em inglês
 - 🧑‍💼 Atualmente trabalho na Santander F1rst, atuando na Squad de Consórcios como Analista e Desenvolvedor Pleno

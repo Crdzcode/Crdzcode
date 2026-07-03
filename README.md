@@ -1,15 +1,15 @@
-## Prazer, eu sou o Matheus! 👋
+## Hey there, I'm Matheus! 👋
 
-### 👨🏻‍💻 Sobre mim
+### 👨🏻‍💻 About me
 
-- 👨 Tenho 23 anos, nasci em 29/04/2003
-- 🖥️ Estou imerso no mundo da programação desde os meus 13 anos
-- 💬 Sou fluente em inglês
-- 🧑‍💼 Atualmente trabalho na Santander F1rst, atuando na Squad de Consórcios como Analista e Desenvolvedor Pleno
+- 👨 I'm 23 years old, I was born in 29/04/2003
+- 🖥️ I'm immersed in programming since I was 13
+- 💬 Fluent in english
+- 🧑‍💼 Currently working at Geração TI as a Senior Software Engineer
 
 ##
   
-  ### 🛠 Stack Técnica
+  ### 🛠 Stack
   ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
